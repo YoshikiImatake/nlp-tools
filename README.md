@@ -12,13 +12,13 @@ McbReaderの実行用ドライバ。
 
 # 使い方
 1. 以下のファイル構成でPythonコードとサンプルテキストを用意する。
-[任意のディレクトリ名]/
-    ┠MakeMecabText.py
-    ┠McbReader.py
-    ┠Driver.py
-    ┠text/
-    ┃   ┗sample.txt
-    ┗text_mcb/
+[任意のディレクトリ名]/  
+    ┠MakeMecabText.py  
+    ┠McbReader.py  
+    ┠Driver.py  
+    ┠text/  
+    ┃   ┗sample.txt  
+    ┗text_mcb/  
 
 2. MakeMecabText.pyを実行する。
 3. Driver.pyを実行する。
